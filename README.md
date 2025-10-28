@@ -2,7 +2,7 @@
 <h1 align="center">Hey there 👋, I'm <a href="https://github.com/dassayan004" target="_blank">Sayan Das</a></h1>
 <h3 align="center">💻 Web Application Developer | Full-Stack Engineer | Tech Enthusiast</h3>
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=dassayan004.dassayan004&"  />
+  <img src="https://komarev.com/ghpvc/?username=dassayan004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
 </div>
 
 ### 🌐 Connect With Me  
@@ -84,9 +84,12 @@
 
 
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=dassayan004&theme=dark" alt="GitHub Streak" /> <br>
+  <img src="https://streak-stats.vercel.app/?user=dassayan004&theme=dark" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=dassayan004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dassayan004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dassayan004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+</div>
+<br>
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dassayan004&radius=16&theme=github-dark&area=true&order=5&hide_border=true" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -99,9 +102,13 @@
 - ⚡ Always experimenting with **new frameworks and design patterns**  
 - 🎧 Music and code go hand-in-hand for me!  
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="400" alt="Animated Developer GIF">
+</div>
+
 ---
 
-### 🐍 A Little Pacman Eating My Contributions  
+### 🐍 My Contributions  
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dassayan004/dassayan004/output/pacman-contribution-graph-dark.svg">
