@@ -1,12 +1,17 @@
 <!-- 👋 Hi there, welcome to my GitHub profile! -->
-<h1 align="center">Hey there 👋, I'm <a href="https://github.com/dassayan004" target="_blank">Sayan Das</a></h1>
-<h3 align="center">💻 Web Application Developer | Full-Stack Engineer | Tech Enthusiast</h3>
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dassayan004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
-</div>
+<h1>Hey there 👋, I'm <a href="https://github.com/dassayan004" target="_blank">Sayan Das</a></h1>
+<h3>💻 Web Application Developer | Full-Stack Engineer | Tech Enthusiast</h3>
+
+<p align="left">
+      <a href="https://github.com/dassayan004?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/dassayan004?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/dassayan004?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/dassayan004?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+      <img src="https://komarev.com/ghpvc/?username=dassayan004&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile views"/>
+</p>
 
 ### 🌐 Connect With Me  
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/dassayan004" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
