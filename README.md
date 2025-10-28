@@ -96,7 +96,6 @@
       <td align="center" valign="middle" style="vertical-align: middle; border: none; outline: none;">
         <img 
           src="https://github-readme-stats.vercel.app/api/top-langs?username=dassayan004&locale=en&hide_title=false&layout=compact&langs_count=20&theme=dark&hide_border=false" 
-          height="300" 
           alt="Top Languages"
         />
       </td>
