@@ -82,11 +82,26 @@
 
 ### 📊 GitHub Stats  
 
-
 <div align="center">
-  <img src="https://streak-stats.vercel.app/?user=dassayan004&theme=dark" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api?username=dassayan004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dassayan004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph" />
+  <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none; outline: none; text-align: center;">
+    <tr style="border: none;">
+      <td align="center" valign="middle" style="vertical-align: middle; border: none; outline: none;">
+        <img 
+          src="https://streak-stats.vercel.app/?user=dassayan004&theme=dark" 
+          alt="GitHub Streak" 
+          height="150"
+        />
+       <img src="https://github-readme-stats.vercel.app/api?username=dassayan004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+      </td>      
+      <td align="center" valign="middle" style="vertical-align: middle; border: none; outline: none;">
+        <img 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=dassayan004&locale=en&hide_title=false&layout=compact&langs_count=20&theme=dark&hide_border=false" 
+          height="300" 
+          alt="Top Languages"
+        />
+      </td>
+    </tr>
+  </table>
 </div>
 <br>
 <div align="center">
