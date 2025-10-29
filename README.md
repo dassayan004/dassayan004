@@ -164,7 +164,7 @@
        width="100%" alt="rainbow line" />
 </p>
 
-### 🐍 My Contributions
+### 🐍 My Contributions Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dassayan004/dassayan004/output/pacman-contribution-graph-dark.svg">
